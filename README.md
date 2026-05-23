@@ -1,4 +1,4 @@
-Avance: 1 (Proyecto Grupal)
+Avance: (Proyecto Grupal Taller ALP)
 
 📋 Descripción del Proyecto
 Este sistema está diseñado para gestionar el taller mecánico, permitiendo el registro de clientes y vehículos. En este primer avance, se presenta la estructura funcional del backend en PHP y la conexión exitosa con la base de datos relacional para el almacenamiento de datos.
